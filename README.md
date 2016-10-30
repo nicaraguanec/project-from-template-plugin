@@ -1,0 +1,1 @@
+#project-from-template-plugin
